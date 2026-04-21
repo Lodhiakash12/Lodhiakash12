@@ -1,95 +1,71 @@
-<!-- 🔥 HEADER BANNER -->
+<!-- 🔥 MINIMAL ELITE HEADER -->
+<h1 align="center">Aakash Lodhi</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Aakash%20Lodhi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  Full Stack Engineer • AI Systems • Scalable Backend
 </p>
 
-<h1 align="center">Hi 👋, I'm Aakash</h1>
-<h3 align="center">🚀 Full Stack Engineer | 🤖 AI Systems Builder | ⚡ Automating Everything</h3>
-
----
-
-<!-- 🧠 TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Full+Stack+Apps;AI+Apps+with+RAG+%26+LangChain;Working+with+Vector+Databases;Optimizing+Systems+%26+Automation" />
+  <a href="mailto:akashlodhi7836@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •
+  <a href="https://github.com/Lodhiakash12">GitHub</a>
 </p>
 
 ---
 
-<!-- 🖼️ GIF -->
-<img align="right" height="200" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
-
-### 🧠 About Me
-- 💻 Full Stack Developer (**MERN + Django**)
-- 🤖 Building **AI-powered systems (RAG, LangChain, Embeddings)**
-- ⚡ Focused on **performance optimization & automation**
-- 🧩 Love breaking down complex systems into simple flows
-- 📚 Currently diving into **System Design + Scalable Architectures**
+### 🧠 About
+Engineer focused on building **scalable full stack systems** and **AI-powered applications**.  
+Currently working with **RAG pipelines, vector databases, and backend optimization**.
 
 ---
 
-### 🛠️ Tech Arsenal
+### ⚙️ Tech Stack
+- **Frontend:** React, JavaScript, HTML, CSS  
+- **Backend:** Node.js, Django  
+- **AI/ML:** LangChain, RAG, Embeddings, Vector DBs (FAISS)  
+- **Database:** MongoDB  
+- **Tools:** Git, Linux  
+
+---
+
+### 🚀 Selected Work
+
+#### 🔹 AI Document Intelligence System
+- Built a **RAG-based pipeline** using LangChain + FAISS  
+- Reduced retrieval latency by optimizing chunking & prompts  
+- Designed modular pipeline for scalable document ingestion  
+
+#### 🔹 CVA Automation Platform
+- Automated document parsing → dynamic code generation  
+- Reduced manual effort through structured mapping system  
+- Built reusable backend architecture  
+
+#### 🔹 Full Stack Applications (React + Django)
+- Developed scalable applications with API-driven architecture  
+- Focus on performance, modularity, and clean design  
+
+---
+
+### 📊 Engineering Focus
+- Designing **scalable backend systems**
+- Optimizing **LLM pipelines (cost + latency)**
+- Building **reusable AI architectures**
+
+---
+
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,django,mongodb,git,github,linux" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lodhiakash12&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lodhiakash12&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### ⚡ AI / Backend Focus
-- 🔹 Retrieval-Augmented Generation (RAG)
-- 🔹 Vector Databases (FAISS, embeddings)
-- 🔹 Prompt Engineering & Optimization
-- 🔹 API Design & Scalable Backend Systems
+### 🧩 What I Care About
+- Writing **clean, maintainable systems**
+- Solving **real-world problems**
+- Continuous learning & iteration
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lodhiakash12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lodhiakash12&theme=tokyonight&hide_border=true&background=0D1117" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lodhiakash12&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-- 🔥 **AI Document Intelligence System**  
-  → Built using RAG + LangChain + Vector Search
-
-- ⚡ **CVA Automation Platform**  
-  → Dynamic document parsing + auto code generation
-
-- 🌐 **Full Stack Apps (React + Django)**  
-  → End-to-end scalable applications
-
----
-
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:akashlodhi7836@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
-
----
-
-### 🧠 Current Focus
-- 🔍 Optimizing LLM pipelines (cost + performance)
-- ⚙️ Building reusable AI architectures
-- 🚀 Scaling full stack systems
-
----
-
-### ✨ Philosophy
-<p align="center">
-  <b>"Don’t just build apps. Build systems that think."</b>
-</p>
-
----
-
-<!-- 🔥 FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:2c5364&height=120&section=footer"/>
-</p>
+### 📫 Contact
+- Email: akashlodhi7836@gmail.com
