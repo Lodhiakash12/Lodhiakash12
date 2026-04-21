@@ -1,55 +1,95 @@
-<h2 align="left">Hi 👋! I'm Aakash Lodhi</h2>
-<h3 align="left">🚀 Full Stack Developer | AI Enthusiast</h3>
+<!-- 🔥 HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Aakash%20Lodhi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBtYTAxOTFzN3pjbWNhZG9td3gzZ3VyNzN5ZHZhc3c4cWhsMHIyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mzPnmFlbpYSquJpe1n/giphy.gif" />
+<h1 align="center">Hi 👋, I'm Aakash</h1>
+<h3 align="center">🚀 Full Stack Engineer | 🤖 AI Systems Builder | ⚡ Automating Everything</h3>
 
 ---
+
+<!-- 🧠 TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Full+Stack+Apps;AI+Apps+with+RAG+%26+LangChain;Working+with+Vector+Databases;Optimizing+Systems+%26+Automation" />
+</p>
+
+---
+
+<!-- 🖼️ GIF -->
+<img align="right" height="200" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif"/>
 
 ### 🧠 About Me
-- 💻 Full Stack Developer (MERN + Django)
-- 🤖 Working with AI tools (LangChain, RAG, Vector DBs)
-- ⚡ Interested in automating workflows & smart systems
-- 📚 Currently learning: Advanced AI pipelines & system design
+- 💻 Full Stack Developer (**MERN + Django**)
+- 🤖 Building **AI-powered systems (RAG, LangChain, Embeddings)**
+- ⚡ Focused on **performance optimization & automation**
+- 🧩 Love breaking down complex systems into simple flows
+- 📚 Currently diving into **System Design + Scalable Architectures**
 
 ---
 
-### 🛠️ Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30"/>
-</div>
+### 🛠️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,python,django,mongodb,git,github,linux" />
+</p>
 
 ---
 
-### 🔗 Connect with Me
-<div align="left">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</div>
+### ⚡ AI / Backend Focus
+- 🔹 Retrieval-Augmented Generation (RAG)
+- 🔹 Vector Databases (FAISS, embeddings)
+- 🔹 Prompt Engineering & Optimization
+- 🔹 API Design & Scalable Backend Systems
 
 ---
 
-### 📌 Ask Me About
-- HTML, CSS, JavaScript
-- React.js & Frontend Development
-- Backend (Node.js / Django)
-- AI Apps (RAG, LangChain, Embeddings, Vector DB)
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+</p>
 
 ---
 
-### 📫 Reach Me
-📧 **akashlodhi7836@gmail.com**
+### 🚀 Featured Projects
+- 🔥 **AI Document Intelligence System**  
+  → Built using RAG + LangChain + Vector Search
+
+- ⚡ **CVA Automation Platform**  
+  → Dynamic document parsing + auto code generation
+
+- 🌐 **Full Stack Apps (React + Django)**  
+  → End-to-end scalable applications
+
+---
+
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:akashlodhi7836@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧠 Current Focus
+- 🔍 Optimizing LLM pipelines (cost + performance)
+- ⚙️ Building reusable AI architectures
+- 🚀 Scaling full stack systems
+
+---
+
+### ✨ Philosophy
+<p align="center">
+  <b>"Don’t just build apps. Build systems that think."</b>
+</p>
+
+---
+
+<!-- 🔥 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:2c5364&height=120&section=footer"/>
+</p>
