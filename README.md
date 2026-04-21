@@ -44,12 +44,12 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lodhiakash12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lodhiakash12&theme=tokyonight&hide_border=true&background=0D1117" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lodhiakash12&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
