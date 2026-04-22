@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Aakash%20Lodhi&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Aakash</h1>
+<h1 align="center"></h1>
 <h3 align="center">🚀 Full Stack Engineer | 🤖 AI Systems Builder | ⚡ Automating Everything</h3>
 
 ---
